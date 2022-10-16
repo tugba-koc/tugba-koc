@@ -1,6 +1,6 @@
 <div align="center">
 
-## I'm Frontend Developer
+## Frontend Developer
 
 ## 🧰 I'm familiar with 🧰
 
