@@ -9,6 +9,8 @@
 <p>Redux Toolkit</p>
 <p>Redux Toolkit Query</p>
 <p>React Query</p>
+<p>Next.js</p>
+<p>React Router Dom</p>
 <p>Vite</p>
 <p>Cypress</p>
 <p>React Testing Library</p>
